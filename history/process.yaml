@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPD-DP01A-01-CTDPFL104-recovered_wfp-dpc_ctd_instrument_recovered
 data_stream: RS01SBPD-DP01A-01-CTDPFL104-recovered_wfp-dpc_ctd_instrument_recovered
 end_date: '2020-09-22T23:54:59.857Z'
-last_updated: '2021-05-01T00:40:58.351050Z'
+last_updated: '2021-05-01T00:44:18.675467'
 start_date: '2014-08-23T05:55:50.000Z'
-status: pending
+status: success
