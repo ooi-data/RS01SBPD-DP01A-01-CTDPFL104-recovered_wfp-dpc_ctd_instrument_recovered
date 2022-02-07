@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS01SBPD-DP01A-01-CTDPFL104-recovered_wfp-dpc_ctd_instrument_recovered
-last_request: '2022-01-21T18:08:48.103638Z'
+last_request: '2022-02-07T17:29:30.531660Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPD-DP01A-01-CTDPFL104-recovered_wfp-dpc_ctd_instrument_recovered/main/history/response.json
-status: success
+status: pending
